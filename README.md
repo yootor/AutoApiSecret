@@ -16,7 +16,6 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
 ### 特别说明/Thanks ###
 * 原教程博主-黑幕（酷安id-Paran）：https://blog.432100.xyz/index.php/archives/50/
-* 普通版地址：https://github.com/wangziyingwen/AutoApi
 * 加密版地址（推荐）：https://github.com/wangziyingwen/AutoApiSecret
 * 超级版地址： https://github.com/wangziyingwen/AutoApiS
 * **常见错误及解决办法/更新日志**：https://github.com/wangziyingwen/Autoapi-test
